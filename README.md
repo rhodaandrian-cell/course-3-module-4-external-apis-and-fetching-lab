@@ -14,9 +14,7 @@ This project is a JavaScript web application that fetches **weather alerts** fro
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -89,5 +87,6 @@ npm install
 4. The summary (e.g., Current watches, warnings, and advisories for Minnesota: 11)
 
 5. A list of alert headlines
+
 
 6. If the input is invalid or an error occurs, an error message will display below the alerts.
